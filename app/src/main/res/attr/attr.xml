@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PhotoView">
+        <!-- 顶部偏移像素 -->
+        <attr name="top_offset" format="integer" />
+        <!-- 横向偏移像素 -->
+        <attr name="horizental_offset" format="integer" />
+        <!-- 横向内容与边框距离 -->
+        <attr name="horizental_space" format="integer" />
+        <!-- 纵向内容与边框距离 -->
+        <attr name="vertical_space" format="integer" />
+        <!-- 显示view个数 -->
+        <attr name="show_count" format="integer" />
+    </declare-styleable>
+</resources>
