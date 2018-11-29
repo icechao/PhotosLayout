@@ -24,3 +24,4 @@
     横向左右偏移20,
     显示子View个数为4,
     左右上下边框距离为0
+<iframe height=1280 width=720 src="https://github.com/icechao/PhotosLayout/blob/master/1.gif">
