@@ -26,4 +26,4 @@
     左右上下边框距离为0
    
 
-<img src="https://github.com/icechao/PhotosLayout/blob/master/1.gif" width="500" hegiht="500" align=center />
+<img src="https://github.com/icechao/PhotosLayout/blob/master/1.gif" width="300" hegiht="500" align=center />
